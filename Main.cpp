@@ -1,4 +1,4 @@
 int main()
 {
-  cout<<1<<2;
+  cout<<14<<2;
 }
